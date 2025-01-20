@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -331,9 +331,6 @@
             <mxPoint x="547" y="1974" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IohPZ6vaJG84Qj0TLkUY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;shape=link;strokeWidth=2;dashPattern=1 1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-0" target="IohPZ6vaJG84Qj0TLkUY-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-0" value="&lt;i&gt;&lt;font&gt;Belirtilen formatta&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;font&gt;VSAT Kurulum ekibine ve Newtec ekibine aktivasyon onayı için mail atılır.&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="467" y="2510" width="160" height="80" as="geometry" />
         </mxCell>
@@ -561,20 +558,11 @@
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-114" target="prwoSBD-CgKoXIvh0HvR-116" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IohPZ6vaJG84Qj0TLkUY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;dashed=1;dashPattern=1 1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-114" target="IohPZ6vaJG84Qj0TLkUY-25">
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;shape=link;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-114" target="IohPZ6vaJG84Qj0TLkUY-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-114" value="Tüm iyileştirmelere rağmen İstenilen değerler ve durum sağlanamıyorsa terminal &lt;b&gt;kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="2731" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-116" value="&lt;b&gt;Kurulum iptal&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillStyle=zigzag-line;fillColor=#E6E6E6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="2748.5" width="60" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-120" value="&amp;nbsp; &amp;nbsp;Saha Ekibinden iyileştirme talep edilir." style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="698" y="2736" width="160" height="70" as="geometry" />
+          <mxGeometry x="299.5" y="2731" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-121" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;i&gt;&lt;b&gt;Kurulum fotoğraflarının incelenmesi ve aktivasyon&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fillColor=#d5e8d4;strokeColor=#97D077;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="467" y="2620" width="160" height="80" as="geometry" />
@@ -586,15 +574,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="547" y="2730" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-129" value="&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;Fotoğraflar kurulum dokümanında tarif edildiği&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;gibi ve en az 15 adet&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;olacak şekilde yüklenmelidir.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="698" y="2620" width="161" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-129" target="prwoSBD-CgKoXIvh0HvR-121" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-120" target="prwoSBD-CgKoXIvh0HvR-129" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-132" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Saha personeli modem arayüzünden &#39;General&#39; sekmesine gider ve&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;font style=&quot;color: rgb(204, 0, 0);&quot;&gt;&lt;b&gt;&#39;ACM Client BBF Error Awareness&#39;&lt;/b&gt;&lt;/font&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;onay kutusunun işaretli olduğu teyit eder, değilse işaretler.&lt;/font&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="710" width="160" height="80" as="geometry" />
@@ -611,14 +590,11 @@
         <mxCell id="prwoSBD-CgKoXIvh0HvR-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-20" target="prwoSBD-CgKoXIvh0HvR-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#B85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-109" target="prwoSBD-CgKoXIvh0HvR-120" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="prwoSBD-CgKoXIvh0HvR-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-109" target="prwoSBD-CgKoXIvh0HvR-114" edge="1">
+        <mxCell id="prwoSBD-CgKoXIvh0HvR-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.93;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#B85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-109" target="prwoSBD-CgKoXIvh0HvR-114" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-143" value="HAYIR" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#EA6B66;fontStyle=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="659.0036041275049" y="2718.99747584833" as="geometry">
+          <mxGeometry x="443.0036041275049" y="2717.99747584833" as="geometry">
             <mxPoint y="46" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -633,8 +609,8 @@
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-82" target="prwoSBD-CgKoXIvh0HvR-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IohPZ6vaJG84Qj0TLkUY-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;Kime:&lt;/b&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;i&gt;vsatdestek@turksat.com.tr&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;Bilgi:&lt;/b&gt;&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;dialog.vhsm@turksat.com.tr&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="642" y="2510" width="158" height="80" as="geometry" />
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-13" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;Kime:&lt;/b&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;i&gt;vsatdestek@turksat.com.tr&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;Bilgi:&lt;/b&gt;&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;dialog.vhsm@turksat.com.tr&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, NotoColorEmoji, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Android Emoji&amp;quot;, EmojiSymbols; font-size: 14.6667px; margin: 0px;&quot;&gt;&lt;font color=&quot;#212121&quot; size=&quot;2&quot; face=&quot;wf_segoe-ui_normal,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Calibri,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;Merhabalar,&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, NotoColorEmoji, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Android Emoji&amp;quot;, EmojiSymbols; font-size: 14.6667px; margin: 0px;&quot;&gt;&lt;font color=&quot;#212121&quot; size=&quot;2&quot; face=&quot;wf_segoe-ui_normal,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Calibri,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, NotoColorEmoji, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Android Emoji&amp;quot;, EmojiSymbols; font-size: 14.6667px; margin: 0px;&quot;&gt;&lt;font color=&quot;#212121&quot; size=&quot;2&quot; face=&quot;wf_segoe-ui_normal,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;windowtext&quot; size=&quot;2&quot; face=&quot;Calibri,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;ABCD-012-XXX-XXXXX-B12_MDM2510&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;windowtext&quot; size=&quot;2&quot; face=&quot;Calibri,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&amp;nbsp;terminali kurulumu Ali Berat Can ERDEM&amp;nbsp;Bey tarafından yapılmıştır. Kablo RG6 8 Mt. kullanıldığını belirtiştir.&amp;nbsp;1dB testi yapılmış olup KDPP sistemine fotoğraflar yüklenilmesi konusunda bilgi verilmiştir fakat bölgede şebeke sıkıntısı olduğu için fotoğrafları yükleyemedi ilerleyen saatlerde yükleyecektir.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, NotoColorEmoji, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Android Emoji&amp;quot;, EmojiSymbols; font-size: 14.6667px; margin: 0px;&quot;&gt;&lt;font color=&quot;#212121&quot; size=&quot;2&quot; face=&quot;wf_segoe-ui_normal,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Calibri,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); font-family: Calibri, Helvetica, sans-serif, EmojiFont, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, NotoColorEmoji, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Android Emoji&amp;quot;, EmojiSymbols; font-size: 14.6667px; margin: 0px;&quot;&gt;&lt;font color=&quot;#212121&quot; size=&quot;2&quot; face=&quot;wf_segoe-ui_normal,Segoe UI,Segoe WP,Tahoma,Arial,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font size=&quot;2&quot; face=&quot;Calibri,sans-serif,serif,EmojiFont&quot;&gt;&lt;span style=&quot;font-size: 11pt;&quot;&gt;İyi Çalışmalar.&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="2510" width="360" height="400" as="geometry" />
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-82" target="prwoSBD-CgKoXIvh0HvR-81">
           <mxGeometry relative="1" as="geometry">
@@ -654,7 +630,7 @@
           <mxGeometry x="270.5" y="1910" width="139" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-25" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; &lt;b&gt;Nominal Output Power&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;-50 dBm&lt;/b&gt; olarak ayarlanır.&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="281" y="2633" width="139" height="80" as="geometry" />
+          <mxGeometry x="290" y="2829" width="139" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;shape=link;dashed=1;dashPattern=1 1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IohPZ6vaJG84Qj0TLkUY-27" target="5Bd2yBQxAzqOlN45nOWx-134">
           <mxGeometry relative="1" as="geometry" />
@@ -670,6 +646,9 @@
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-33" value="&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; &lt;b&gt;Nominal Output Power&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;b&gt;-50 dBm&lt;/b&gt; olarak ayarlanır.&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270.5" y="180" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-114" target="prwoSBD-CgKoXIvh0HvR-121">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
