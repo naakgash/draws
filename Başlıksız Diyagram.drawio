@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -360,6 +360,9 @@
         <mxCell id="prwoSBD-CgKoXIvh0HvR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-21" target="prwoSBD-CgKoXIvh0HvR-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;shape=link;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-21" target="IohPZ6vaJG84Qj0TLkUY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-21" value="Tüm iyileştirmelere rağmen istenilen değerler sağlanamıyorsa &lt;b&gt;terminal kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="275" width="120" height="80" as="geometry" />
         </mxCell>
@@ -368,6 +371,9 @@
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="391" y="620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;shape=link;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-27" target="IohPZ6vaJG84Qj0TLkUY-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-27" value="Tüm iyileştirmelere rağmen istenilen değerler sağlanamıyorsa &lt;b&gt;terminal kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="645" width="120" height="80" as="geometry" />
@@ -380,8 +386,11 @@
         <mxCell id="prwoSBD-CgKoXIvh0HvR-29" value="&lt;b&gt;Kurulum iptal&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillStyle=zigzag-line;fillColor=#E6E6E6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="180" y="662.5" width="60" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;shape=link;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-30" target="IohPZ6vaJG84Qj0TLkUY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-30" value="Tüm iyileştirmelere rağmen istenilen değerler sağlanamıyorsa &lt;b&gt;terminal kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="1060" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="1060" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="prwoSBD-CgKoXIvh0HvR-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -477,6 +486,9 @@
         <mxCell id="prwoSBD-CgKoXIvh0HvR-61" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;gradientColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="391" y="1440" width="80" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;shape=link;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-62" target="IohPZ6vaJG84Qj0TLkUY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-62" value="Tüm iyileştirmelere rağmen istenilen değerler ve durum sağlanamıyorsa &lt;b&gt;terminal kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="1465" width="120" height="80" as="geometry" />
         </mxCell>
@@ -496,6 +508,9 @@
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-65" value="&lt;i&gt;&lt;font&gt;1 dB tamamlanır ve değerler&lt;br&gt;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font&gt;olarak&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;font&gt;CMS ekranına kaydedilir.&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="471" y="1660" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;dashed=1;dashPattern=1 1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-69" target="IohPZ6vaJG84Qj0TLkUY-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-69" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Anten çapı/BUC&lt;/b&gt; yetersiz.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;T&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;erminal kilitlenir&lt;/b&gt;&amp;nbsp;ve&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;daha&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;büyük anten ya da daha&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;düşük tarife saha ekibince ilgili&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;proje yöneticisinden&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;talep edilir.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="2006" width="140" height="80" as="geometry" />
@@ -517,10 +532,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-81" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="387" y="2170" width="80" height="130" as="geometry" />
+          <mxGeometry x="390" y="2170" width="77" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;shape=link;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-82" target="IohPZ6vaJG84Qj0TLkUY-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-82" value="Tüm iyileştirmelere rağmen İstenilen değerler ve durum sağlanamıyorsa &lt;b&gt;terminal kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270" y="2195" width="126" height="80" as="geometry" />
+          <mxGeometry x="274" y="2195" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="prwoSBD-CgKoXIvh0HvR-84" edge="1" source="prwoSBD-CgKoXIvh0HvR-82">
           <mxGeometry relative="1" as="geometry">
@@ -544,6 +562,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-114" target="prwoSBD-CgKoXIvh0HvR-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=link;dashed=1;dashPattern=1 1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-114" target="IohPZ6vaJG84Qj0TLkUY-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prwoSBD-CgKoXIvh0HvR-114" value="Tüm iyileştirmelere rağmen İstenilen değerler ve durum sağlanamıyorsa terminal &lt;b&gt;kilitlenir.&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -606,17 +627,49 @@
             <mxPoint x="-13" y="48" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IohPZ6vaJG84Qj0TLkUY-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Nominal Occupied Bandwidth&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Nominal Output Power&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Limit Tx Power&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;✓&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3); font-size: 8px;&quot;&gt;&lt;b&gt;Output power for 1dB Compression&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="662" y="1660" width="139" height="80" as="geometry" />
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-6" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Nominal Occupied Bandwidth&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Nominal Output Power&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;Limit Tx Power&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 127, 255);&quot;&gt;✓&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3); font-size: 8px;&quot;&gt;&lt;b&gt;Output power for 1dB Compression&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="1660" width="139" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-82" target="prwoSBD-CgKoXIvh0HvR-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-13" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;Kime:&lt;/b&gt;&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;i&gt;vsatdestek@turksat.com.tr&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;&lt;b&gt;Bilgi:&lt;/b&gt;&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;i&gt;dialog.vhsm@turksat.com.tr&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="662" y="2510" width="158" height="80" as="geometry" />
+          <mxGeometry x="642" y="2510" width="158" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IohPZ6vaJG84Qj0TLkUY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="prwoSBD-CgKoXIvh0HvR-82" target="prwoSBD-CgKoXIvh0HvR-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="2235" />
+              <mxPoint x="400" y="2235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-17" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270.5" y="1370" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-21" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="267.5" y="2290" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-23" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270.5" y="1910" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-25" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="281" y="2633" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;shape=link;dashed=1;dashPattern=1 1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IohPZ6vaJG84Qj0TLkUY-27" target="5Bd2yBQxAzqOlN45nOWx-134">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-27" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="650" y="2380" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-29" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275.5" y="966" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-32" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="274" y="550" width="139" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IohPZ6vaJG84Qj0TLkUY-33" value="&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;color: rgb(3, 3, 3);&quot;&gt;Terminal kilitlendikten sonra&lt;/font&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt; Nominal Output Power&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;değeri CMS ekranından&amp;nbsp; &amp;nbsp; &amp;nbsp;-50 dBm olarak ayarlanır.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270.5" y="180" width="139" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
